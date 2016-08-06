@@ -1,6 +1,8 @@
 Npm JQuery Demo
 ===============
 
+Use the `jquery.js` from npm jquery module on the html page.
+
 ```
 npm install -g http-server
 npm install
