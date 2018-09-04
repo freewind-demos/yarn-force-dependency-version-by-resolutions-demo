@@ -1,11 +1,13 @@
-Npm JQuery Demo
-===============
-
-Use the `jquery.js` from npm jquery module on the html page.
+JavaScript Npm Demo
+===================
 
 ```
 npm install
-open index.html
+npm run demo
 ```
 
-You will see "hello jquery" on page.
+You will see:
+
+```
+Hello, Npm!
+```
