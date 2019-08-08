@@ -13,7 +13,7 @@ yarn run demo
 检查：
 
 ```
-yarn list --depth 10
+yarn list fsevents
 ```
 
 可以看到`fsevents`最终使用的是`1.2.9`版本。
